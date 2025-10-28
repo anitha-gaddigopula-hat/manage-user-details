@@ -32,6 +32,6 @@ class User
 end
 
 # Creating object and calling methods
-user=User.new
-user.create_user
-user.display_user
+user1=User.new
+user1.create_user
+user1.display_user
